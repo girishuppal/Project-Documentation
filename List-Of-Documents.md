@@ -20,10 +20,10 @@ List of Documents
 1. High Level Design Document
 
 **TESTING**
-Test Plan
-Test Case
+1. Test Plan
+1. Test Case
 
 **OTHER DOCS**
-Release Notes
-As built Document
-Help Guide
+1. Release Notes
+1. As built Document
+1. Help Guide
