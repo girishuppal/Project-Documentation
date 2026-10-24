@@ -1,11 +1,15 @@
 List of Documents
 ---
 
-**BEFORE THE PROJECT**
+**PROJECT CONCEPTUALIZATION PHASE**
 1. Request for Information
 1. Request for Quote
 1. Invitation for Bid
 1. Business Case
+
+**BEFORE THE PROJECT**
+1. Statement of Work
+1. Project Charter
 
 
 **PLANNING**
