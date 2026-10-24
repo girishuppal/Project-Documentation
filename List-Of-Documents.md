@@ -11,6 +11,10 @@ List of Documents
 **PLANNING**
 1. Project Plan
 
+**ANALYSIS**
+1. Business Requirement Specification 
+1. Functional Requirement Specification
+
 **DESIGN**
 1. Low Level Design Document
 1. High Level Design Document
