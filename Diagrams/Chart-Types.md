@@ -10,7 +10,7 @@
 |**Pie Chart**| |
 |**Donut Chart**| |
 |**Area Chart**| |
-|****| |
+|**Histogram**| |
 |****| |
 |****| |
 |****| |
