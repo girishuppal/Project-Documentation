@@ -24,3 +24,15 @@
 `Card`
 
 `KPI`
+
+`Stacked Area Chart`
+
+`Treemap Chart`
+
+`Funnel Chart`
+
+`Scatter Chart`
+
+`Waterfall Chart`
+
+`Decomposition Chart`
